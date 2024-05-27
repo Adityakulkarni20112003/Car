@@ -23,8 +23,7 @@ st.set_page_config(
 # Create a dict for pages.
 pages_dict = {
                 "Home": home,
-                "View Data": data, 
-                "Visualise Data": plots, 
+                "View Data": data,  
                 "Predict": predict,
                 "About me": about
             }
