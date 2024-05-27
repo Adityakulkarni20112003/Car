@@ -6,7 +6,6 @@ import streamlit as st
 # Import pages.
 import home
 import data
-import plots
 import predict
 import about
 
